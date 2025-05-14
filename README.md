@@ -18,8 +18,8 @@ A responsive web dashboard for managing employee data, built with Bootstrap 5, D
 
 ## Dependencies
 
-Bootstrap 5.3.2: Responsive UI (CDN).
-Font Awesome 6.5.1: Icons (CDN).
+1. Bootstrap 5.3.2: Responsive UI (CDN).
+2 .Font Awesome 6.5.1: Icons (CDN).
 jQuery 3.7.1: AJAX and DataTables (CDN).
 Chart.js 4.4.0: Charts (CDN).
 DataTables 2.3.0: DataTable core (CDN).
