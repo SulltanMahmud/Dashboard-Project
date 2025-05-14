@@ -31,4 +31,4 @@ pdfmake 0.2.7: PDF export (CDN).
  
 
 ## 🔗 Live Site Link
-[![Live]([https://img.shields.io/badge/Click_Here_For_Restaurant_APP-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://sparkly-longma-26edc6.netlify.app](https://fabulous-gnome-202f19.netlify.app/))
+[![Live](https://img.shields.io/badge/Click_Here_For_Restaurant_APP-000?style=for-the-badge&logo=ko-fi&logoColor=white)]([https://sparkly-longma-26edc6.netlify.app](https://fabulous-gnome-202f19.netlify.app/))
