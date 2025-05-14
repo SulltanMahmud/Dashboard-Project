@@ -1,0 +1,403 @@
+   [
+     {
+       "id": 1,
+       "email": "ybrown@bryant.com",
+       "name": "Samantha Poole",
+       "Department": "Marketing",
+       "time_duration_years": 4,
+       "salary": 40000
+     },
+     {
+       "id": 2,
+       "email": "kirkalejandro@hotmail.com",
+       "name": "Tammy Warren",
+       "Department": "Marketing",
+       "time_duration_years": 15,
+       "salary": 10000
+     },
+     {
+       "id": 3,
+       "email": "laura01@yahoo.com",
+       "name": "Tyler Duncan",
+       "Department": "HR",
+       "time_duration_years": 17,
+       "salary": 20000
+     },
+     {
+       "id": 4,
+       "email": "bakeremily@hotmail.com",
+       "name": "Angela Black",
+       "Department": "HR",
+       "time_duration_years": 2,
+       "salary": 60000
+     },
+     {
+       "id": 5,
+       "email": "rgallegos@hotmail.com",
+       "name": "Eric Reid",
+       "Department": "HR",
+       "time_duration_years": 18,
+       "salary": 10000
+     },
+     {
+       "id": 6,
+       "email": "timothymann@rosario.org",
+       "name": "Robert Bennett",
+       "Department": "Marketing",
+       "time_duration_years": 1,
+       "salary": 30000
+     },
+     {
+       "id": 7,
+       "email": "jorgebartlett@gilbert.com",
+       "name": "Danielle Hall",
+       "Department": "Operations",
+       "time_duration_years": 13,
+       "salary": 150000
+     },
+     {
+       "id": 8,
+       "email": "tsmith@hall.com",
+       "name": "Erica Parker",
+       "Department": "IT",
+       "time_duration_years": 5,
+       "salary":  20000
+     },
+     {
+       "id": 9,
+       "email": "ubass@gmail.com",
+       "name": "Brent Anderson",
+       "Department": "HR",
+       "time_duration_years": 18,
+       "salary": 80000
+     },
+     {
+       "id": 10,
+       "email": "williamssarah@ramirez.info",
+       "name": "Felicia Cortez",
+       "Department": "IT",
+       "time_duration_years": 5,
+       "salary": 90000
+     },
+     {
+       "id": 11,
+       "email": "martinricardo@gmail.com",
+       "name": "Joshua Carter",
+       "Department": "IT",
+       "time_duration_years": 20,
+       "salary": 116000
+     },
+     {
+       "id": 12,
+       "email": "spencerjacqueline@gmail.com",
+       "name": "Alfred Miller",
+       "Department": "HR",
+       "time_duration_years": 18,
+       "salary": 94000
+     },
+     {
+       "id": 13,
+       "email": "brian42@yahoo.com",
+       "name": "Timothy Adams",
+       "Department": "Marketing",
+       "time_duration_years": 4,
+       "salary": 58000
+     },
+     {
+       "id": 14,
+       "email": "skim@yahoo.com",
+       "name": "Mary Weber",
+       "Department": "IT",
+       "time_duration_years": 7,
+       "salary": 60000
+     },
+     {
+       "id": 15,
+       "email": "malonedonald@hotmail.com",
+       "name": "Joseph Mcintosh",
+       "Department": "Marketing",
+       "time_duration_years": 2,
+       "salary": 76000
+     },
+     {
+       "id": 16,
+       "email": "vazquezchelsea@wade-davis.com",
+       "name": "Kelly Becker",
+       "Department": "IT",
+       "time_duration_years": 8,
+       "salary": 94000
+     },
+     {
+       "id": 17,
+       "email": "ydean@finley.com",
+       "name": "Tina Chambers",
+       "Department": "Finance",
+       "time_duration_years": 13,
+       "salary": 99000
+     },
+     {
+       "id": 18,
+       "email": "thomasdavid@gmail.com",
+       "name": "Samantha Weiss",
+       "Department": "Marketing",
+       "time_duration_years": 12,
+       "salary": 92000
+     },
+     {
+       "id": 19,
+       "email": "hardysusan@thomas.com",
+       "name": "Joshua Kramer",
+       "Department": "HR",
+       "time_duration_years": 17,
+       "salary": 96000
+     },
+     {
+       "id": 20,
+       "email": "vanessamurphy@yahoo.com",
+       "name": "Michelle Mora",
+       "Department": "IT",
+       "time_duration_years": 16,
+       "salary": 114000
+     },
+     {
+       "id": 21,
+       "email": "wrightbonnie@gmail.com",
+       "name": "Kaitlyn Lang",
+       "Department": "IT",
+       "time_duration_years": 18,
+       "salary": 112000
+     },
+     {
+       "id": 22,
+       "email": "phillipbutler@yahoo.com",
+       "name": "Christopher Nguyen",
+       "Department": "Operations",
+       "time_duration_years": 13,
+       "salary": 87000
+     },
+     {
+       "id": 23,
+       "email": "changemily@russo.com",
+       "name": "Lindsay Thompson MD",
+       "Department": "Operations",
+       "time_duration_years": 17,
+       "salary": 99000
+     },
+     {
+       "id": 24,
+       "email": "ujones@flores.com",
+       "name": "Michele Jones",
+       "Department": "Finance",
+       "time_duration_years": 15,
+       "salary": 107000
+     },
+     {
+       "id": 25,
+       "email": "rrogers@gmail.com",
+       "name": "Joseph Gilmore",
+       "Department": "HR",
+       "time_duration_years": 17,
+       "salary": 100000
+     },
+     {
+       "id": 26,
+       "email": "lauradavis@anderson.biz",
+       "name": "Kathryn Walker",
+       "Department": "IT",
+       "time_duration_years": 6,
+       "salary": 88000
+     },
+     {
+       "id": 27,
+       "email": "xnelson@brown.org",
+       "name": "Tracey Ward",
+       "Department": "HR",
+       "time_duration_years": 9,
+       "salary": 76000
+     },
+     {
+       "id": 28,
+       "email": "brittneybentley@yahoo.com",
+       "name": "Joseph Foster",
+       "Department": "HR",
+       "time_duration_years": 19,
+       "salary": 100000
+     },
+     {
+       "id": 29,
+       "email": "jacksontonya@wilson.com",
+       "name": "Kim Jones",
+       "Department": "HR",
+       "time_duration_years": 1,
+       "salary": 65000
+     },
+     {
+       "id": 30,
+       "email": "smithkevin@anderson.info",
+       "name": "Robert Johnston",
+       "Department": "HR",
+       "time_duration_years": 8,
+       "salary": 80000
+     },
+     {
+       "id": 31,
+       "email": "wrightlaura@hamilton.info",
+       "name": "Katherine Clark",
+       "Department": "Marketing",
+       "time_duration_years": 15,
+       "salary": 96000
+     },
+     {
+       "id": 32,
+       "email": "reeseamber@yahoo.com",
+       "name": "James Cruz",
+       "Department": "Finance",
+       "time_duration_years": 13,
+       "salary": 97000
+     },
+
+     {
+       "id": 33,
+       "email": "bullocktimothy@white.com",
+       "name": "Edward Jackson",
+       "Department": "Finance",
+       "time_duration_years": 17,
+       "salary": 109000
+     },
+     {
+       "id": 34,
+       "email": "christinagolden@yahoo.com",
+       "name": "Nicholas May",
+       "Department": "Operations",
+       "time_duration_years": 5,
+       "salary": 77000
+     },
+     {
+       "id": 35,
+       "email": "bartonjessica@pierce.info",
+       "name": "Antonio Jackson",
+       "Department": "IT",
+       "time_duration_years": 14,
+       "salary": 110000
+     },
+     {
+       "id": 36,
+       "email": "john52@clark.net",
+       "name": "James Lewis",
+       "Department": "Operations",
+       "time_duration_years": 10,
+       "salary": 81000
+     },
+     {
+       "id": 37,
+       "email": "teresalucas@hotmail.com",
+       "name": "Ricardo Turner",
+       "Department": "HR",
+       "time_duration_years": 14,
+       "salary": 86000
+     },
+     {
+       "id": 38,
+       "email": "mchandler@thomas.com",
+       "name": "Kyle Spears",
+       "Department": "IT",
+       "time_duration_years": 19,
+       "salary": 116000
+     },
+     {
+       "id": 39,
+       "email": "mauricemoore@hotmail.com",
+       "name": "Roy Tucker",
+       "Department": "Marketing",
+       "time_duration_years": 3,
+       "salary": 78000
+     },
+     {
+       "id": 40,
+       "email": "alexaclark@morrison.org",
+       "name": "Anthony Dillon",
+       "Department": "Operations",
+       "time_duration_years": 11,
+       "salary": 89000
+     },
+     {
+       "id": 41,
+       "email": "melissa53@yahoo.com",
+       "name": "Michael Bishop",
+       "Department": "HR",
+       "time_duration_years": 16,
+       "salary": 90000
+     },
+     {
+       "id": 42,
+       "email": "taylorlaura@phillips-schmidt.com",
+       "name": "Ryan Marsh",
+       "Department": "Operations",
+       "time_duration_years": 4,
+       "salary": 71000
+     },
+     {
+       "id": 43,
+       "email": "matthew60@gmail.com",
+       "name": "Trevor Kelly",
+       "Department": "Operations",
+       "time_duration_years": 9,
+       "salary": 85000
+     },
+     {
+       "id": 44,
+       "email": "joshua57@moss.net",
+       "name": "Gary Wood",
+       "Department": "Operations",
+       "time_duration_years": 5,
+       "salary": 77000
+     },
+     {
+       "id": 45,
+       "email": "amanda51@hotmail.com",
+       "name": "Tammy Powers",
+       "Department": "Operations",
+       "time_duration_years": 9,
+       "salary": 86000
+     },
+     {
+       "id": 46,
+       "email": "aevans@taylor.com",
+       "name": "Mr. James Huffman",
+       "Department": "Operations",
+       "time_duration_years": 17,
+       "salary": 95000
+     },
+     {
+       "id": 47,
+       "email": "wesleysanchez@brooks.net",
+       "name": "Joshua Carter",
+       "Department": "IT",
+       "time_duration_years": 6,
+       "salary": 90000
+     },
+     {
+       "id": 48,
+       "email": "colleen81@gmail.com",
+       "name": "Kerry Williams",
+       "Department": "IT",
+       "time_duration_years": 13,
+       "salary": 107000
+     },
+     {
+       "id": 49,
+       "email": "roblespatricia@johnson.info",
+       "name": "Brian Murray",
+       "Department": "Marketing",
+       "time_duration_years": 20,
+       "salary": 112000
+     },
+     {
+       "id": 50,
+       "email": "patrickbailey@yahoo.com",
+       "name": "Kara Curry",
+       "Department": "Marketing",
+       "time_duration_years": 7,
+       "salary": 88000
+     }
+   ]

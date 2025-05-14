@@ -1,0 +1,46 @@
+.header-section {
+  &__cover {
+    width: 100%;
+    position: relative;
+    background: #020024;
+    background: linear-gradient(
+      135deg,
+      rgba(2, 0, 36, 1) 0%,
+      rgba(9, 9, 121, 1) 39%,
+      rgb(11, 7, 80) 100%
+    );
+    padding: 60px 20px 100px;
+    min-height: 220px;
+    background-size: cover;
+    z-index: 0;
+    border-radius: 20px;
+
+    @include sm{
+        padding: 40px 20px 40px;
+        text-align: center;
+    }
+
+    .tittle{
+        color: #ffffff;
+        h1{
+            font-size: 56px;
+            font-weight: 700;
+
+            @include sm {
+                font-size: 28px;
+                white-space: nowrap;
+            }
+        }
+        p{
+            font-size: 20px;
+            font-weight: 300;
+            line-height: 30px;
+
+            @include sm{
+                font-size: 17px;
+                line-height: 25px;
+            }
+        }
+    }
+  }
+}

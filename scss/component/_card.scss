@@ -1,0 +1,33 @@
+.cart {
+  padding: 25px;
+  border-left: 5px solid #4361ee;
+  transition: box-shadow 0.3s ease;
+  background-color: #fff;
+  border-radius: 10px;
+
+  .icon {
+    font-size: 45px;
+    color: #4361ee;
+  }
+
+  .count {
+
+    h1 {
+      font-size: 30px;
+      color: #4361ee;
+    }
+    p {
+      font-size: 15px;
+      font-weight: 500;
+      white-space: nowrap;
+    }
+  }
+
+  &:hover {
+    box-shadow: 0 15px 30px rgba(0, 0, 0, 0.15), 0 10px 10px rgba(0, 0, 0, 0.1);
+  }
+}
+
+ 
+
+ 
