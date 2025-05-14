@@ -1,19 +1,18 @@
-# Restaurant Management App
+# Employee Manager Dashboard
 
-This project is a web-based restaurant management system designed to streamline various aspects of restaurant operations, including table management, food ordering, employee management, and order processing.  The system aims to enhance the overall dining experience for customers and improve operational efficiency for restaurant owners and staff.
 
-## Challenges
-The main challenge is to implement the functionalities like table management, employee management, order management, routing, and Redux State management using React JS and other technologies.
+
+A responsive web dashboard for managing employee data, built with Bootstrap 5, DataTables, and Chart.js. Features a searchable, paginated, and responsive DataTable with export options (Copy, Excel, CSV, PDF, Print), data visualizations, and a modern UI.
 
 
 ## Key Features
-1. User Authentication: The application provides user authentication functionality, allowing users to log in, and log out securely. It employs token-based authentication for protecting routes and ensuring secure access to sensitive information.
+1.  Use Bar Chart For Employee Duration (dynamic)
 
-2. Dashboard: The dashboard provides an overview of various aspects of the business, such as employee management, table management, food menu management, and order management. It offers a user-friendly interface for managing these operations efficiently.
+2.  Use Donate Chart for employee Tenure
 
-3. Employee Management: The application allows administrators to manage employee information, including adding new employees, and removing employees from the system. This feature facilitates efficient management of staff members.
+3.  Use Line Chart for employee Salary
 
-4. Table Management: It enables administrators to manage restaurant tables, including adding new tables, updating table configurations, and marking tables as occupied or available. This feature helps in optimizing table allocation and improving the dining experience for customers.
+4.  Responsive DataTable: Displays employee data (ID, Name, Email, Department, Years of Service, Salary) with sorting, searching, and pagination. Collapses columns on mobile with a toggle.
 
 5. Food Menu Management: Administrators can manage the food menu, including adding new food items,  and removing items from the menu. This functionality enables businesses to keep their menu offerings up-to-date and appealing to customers.
 
